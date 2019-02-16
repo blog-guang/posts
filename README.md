@@ -1,2 +1,2 @@
-# Guang-s-Blog
+# Guang-Blog
 write some technical post
