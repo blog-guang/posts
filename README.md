@@ -2,6 +2,8 @@
 write some technical post
 
 ### 目录
++ [ANSYS非线性分析曲线含义](https://github.com/blog-guang/posts/issues/9)
++ [pygame安装](https://github.com/blog-guang/posts/issues/8)
 + [Debian一键安装Transmission客户端及Transmission web control](https://github.com/blog-guang/posts/issues/7)
 + [vps开启BBR脚本](https://github.com/blog-guang/posts/issues/6)
 + [shadowsocks一键安装脚本（四合一）](https://github.com/blog-guang/posts/issues/5)
